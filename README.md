@@ -7,7 +7,7 @@
 **Date:** November 25, 2025  
 ## Group Members:
 
-1. Diego Gaju 27395(Contribution by Diego Gaju: Created Trigger 1 and Trigger 2)
+1. Diego Gaju 27395 (Contribution by Diego Gaju: Created Trigger 1 and Trigger 2)
 2. Ishimwe Daniel
 3. Muyoboke Emmanuel
 4. Niyomugabo Kevin Nice 
