@@ -1,3 +1,4 @@
+-- Contribution by Diego Gaju: Created Trigger 1
 CREATE OR REPLACE TRIGGER auca_access_restriction_trigger
     BEFORE INSERT OR UPDATE OR DELETE ON auca_employee_data
 DECLARE
