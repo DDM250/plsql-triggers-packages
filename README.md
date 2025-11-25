@@ -5,7 +5,12 @@
 **Instructor:** Eric Maniraguha  
 **Academic Year:** 2025-2026, SEM I 
 **Date:** November 25, 2025  
-**Group Members:** Diego Gaju, Ishimwe Daniel, Muyoboke Emmanuel, Niyomugabo Kevin Nice 
+## Group Members:
+
+1. Diego Gaju
+2. Ishimwe Daniel
+3. Muyoboke Emmanuel
+4. Niyomugabo Kevin Nice 
 ##  What the Question Was About
 
 This assignment had two main parts:
