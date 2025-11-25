@@ -1,3 +1,5 @@
+--Muyoboke and Kevin Nice created the system package
+
 CREATE OR REPLACE PACKAGE auca_hr_package 
 AUTHID CURRENT_USER  -- Invoker's rights - uses privileges of calling user
 AS
