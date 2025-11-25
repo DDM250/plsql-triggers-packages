@@ -1,4 +1,5 @@
--- sample table for testing
+-- -- Contribution by Ishimwe Daniel: Created Sample Tables
+
 CREATE TABLE auca_employee_data (
     employee_id NUMBER PRIMARY KEY,
     employee_name VARCHAR2(100),
