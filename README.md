@@ -3,10 +3,15 @@
 
 **Course:** INSY 8311 - Database development with PL/SQL  
 **Instructor:** Eric Maniraguha  
-**Academic Year:** 2025-2026, SEM II  
+**Academic Year:** 2025-2026, SEM I 
 **Date:** November 25, 2025  
-**Group Members:** Diego Gaju, Ishimwe Daniel, Muyoboke Emmanuel, Niyomugabo Kevin Nice 
-## 📋 What the Question Was About
+## Group Members:
+
+1. Diego Gaju
+2. Ishimwe Daniel
+3. Muyoboke Emmanuel
+4. Niyomugabo Kevin Nice 
+##  What the Question Was About
 
 This assignment had two main parts:
 
@@ -41,6 +46,9 @@ We created tables for employee data and access violation logging.
 ## Code Implementation
 **Inserting sample data**
 ![sample data](https://github.com/user-attachments/assets/2e92f84d-47df-4082-aa17-a36ee1636cc8)
+
+## Trigger Test
+![trigger testing](https://github.com/user-attachments/assets/87d6c7d3-8653-4d00-abc0-7092febb47ed)
 
 ## Testing package procedures
 ![dynamic procedures](https://github.com/user-attachments/assets/bfe3b14c-bd3f-4b35-be78-606ee8ad6204)
