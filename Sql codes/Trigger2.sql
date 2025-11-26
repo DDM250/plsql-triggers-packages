@@ -1,5 +1,3 @@
--- Contribution by Diego Gaju: Created Trigger 2
-
 CREATE OR REPLACE TRIGGER auca_violation_logging_trigger
     AFTER SERVERERROR ON DATABASE
 DECLARE
